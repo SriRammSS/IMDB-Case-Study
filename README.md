@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 IMDB Movies — Data Analysis Case Study
+# IMDB Movies — Data Analysis Case Study
 
 ### Structured Task-Based EDA: Profitability, Directors, Genre, and Actor Analysis
 
